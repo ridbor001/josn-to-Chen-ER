@@ -1,4 +1,4 @@
-<img width="650" height="565" alt="image" src="https://github.com/user-attachments/assets/419bbc07-85f7-4353-931d-01ceb8447f40" />
+***大学生毕设实用工具之生成er图***
 可以一键生成陈氏er图,无需手动拖拽,把自己的数据库表给ai,让他根据json格式来生成代码即可,各大ai均可实现此功能
 格式:
 {
@@ -32,10 +32,3 @@
   操作方式:<img width="779" height="809" alt="image" src="https://github.com/user-attachments/assets/c9087b34-6038-4941-be86-31478139aad3" />
 
   效果图:<img width="680" height="734" alt="image" src="https://github.com/user-attachments/assets/7c652032-0a8a-4f6a-8f96-0239a220e3df" />
-
-  
-
-
-todo:
-1.生成的er图紧凑,很多线都重叠了,需要自己手动排版,不方便,下一步会自动处理排版
-2. ...
